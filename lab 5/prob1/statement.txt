@@ -1,0 +1,3 @@
+Implement recursive and iterative search on binary search tree.
+In bst.h these functions are declared as 'TreeSearch' and 'IterativeTreeSearch'.
+Implement these functions inside 'search.cpp'

@@ -1,0 +1,12 @@
+TreeInsert() is a member function of class bst. It is declared inside 'bst.h'
+Implement TreeInsert() inside 'bst.cpp'
+
+insert() and remove() are declared inside 'helper.h'
+Implement insert() and remove() inside 'helper.cpp'
+
+insert(t,k,s) should create a node containing key k and satellite data s
+(use dynamic allocation to create the node. see 'node.h' for the structure of node)
+and then insert that node into the tree t using TreeInsert()
+
+remove(t,k) should remove, from tree t,  the node whose key is k. Assume that the keys are unique.
+Find the node with key k and then use TreeDelete() to delete that node

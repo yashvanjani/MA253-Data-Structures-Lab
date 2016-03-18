@@ -1,0 +1,2 @@
+Your program should keep on asking for +ve numbers.
+If the user enters any non-positive number then your program should print all the numbers entered so far and stop.

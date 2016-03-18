@@ -1,0 +1,3 @@
+Implement stack using array. Create a class 'stack'.
+The class definition is already given in 'stack.h'.
+Define the member functions (except show()) inside a source file 'stack.cpp'.

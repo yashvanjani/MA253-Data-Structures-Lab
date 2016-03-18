@@ -1,0 +1,75 @@
+Testing MinHeapInsert()
+How many integers do you want to enter ?
+Enter 35 integers
+key#0: Inserting 18
+key#1: Inserting 71
+key#2: Inserting 25
+key#3: Inserting 93
+key#4: Inserting 75
+key#5: Inserting 41
+key#6: Inserting 87
+key#7: Inserting 44
+key#8: Inserting 35
+key#9: Inserting 6
+key#10: Inserting 11
+key#11: Inserting 5
+key#12: Inserting 59
+key#13: Inserting 36
+key#14: Inserting 2
+key#15: Inserting 46
+key#16: Inserting 9
+key#17: Inserting 10
+key#18: Inserting 23
+key#19: Inserting 78
+key#20: Inserting 49
+key#21: Inserting 20
+key#22: Inserting 52
+key#23: Inserting 53
+key#24: Inserting 1
+key#25: Inserting 65
+key#26: Inserting 61
+key#27: Inserting 86
+key#28: Inserting 21
+key#29: Inserting 83
+key#30: Inserting 24
+key#31: Inserting 84
+key#32: Inserting 85
+key#33: Inserting 62
+key#34: Inserting 31
+Testing HeapDecreaseKey()
+Testing HeapExtractMin()
+0 extracted
+1 extracted
+5 extracted
+6 extracted
+8 extracted
+10 extracted
+10 extracted
+18 extracted
+20 extracted
+21 extracted
+23 extracted
+24 extracted
+25 extracted
+31 extracted
+33 extracted
+36 extracted
+41 extracted
+44 extracted
+46 extracted
+49 extracted
+52 extracted
+53 extracted
+59 extracted
+61 extracted
+61 extracted
+65 extracted
+71 extracted
+75 extracted
+78 extracted
+82 extracted
+84 extracted
+85 extracted
+86 extracted
+87 extracted
+91 extracted

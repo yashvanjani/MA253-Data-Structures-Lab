@@ -1,0 +1,1 @@
+Write a program named 'hallo.cpp' which prints hallo world using cout object.

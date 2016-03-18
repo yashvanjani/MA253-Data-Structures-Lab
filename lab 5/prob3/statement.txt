@@ -1,0 +1,3 @@
+Implement 'TreeiSuccessor' and 'TreePredecessor' on binary search tree.
+These functions are declared in 'bst.h' .
+Implement these functions inside 'sucpred.cpp'

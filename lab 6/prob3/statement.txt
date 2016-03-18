@@ -1,0 +1,14 @@
+TreeInsert(), Size() and Height are member functions of class bst which are declared inside 'bst.h'
+Implement these functions inside 'bst.cpp'
+
+Given a ponter x to a node,
+Size(x) should return the total number of nodes in the subtree rooted at x.
+Height(x) should return the height of the subtree rotted at x.
+We follow the convention s.t. height of empty subtree is -1 and height of subtree containg only one node is 0.
+
+insert() is declared inside 'helper.h'
+Implement insert() inside 'helper.cpp'
+
+insert(t,k,s) should create a node containing key k and satellite data s
+(use dynamic allocation to create the node. see 'node.h' for the structure of node)
+and then insert that node into the tree t using TreeInsert()

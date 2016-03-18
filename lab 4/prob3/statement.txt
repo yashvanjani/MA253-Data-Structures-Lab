@@ -1,0 +1,3 @@
+Implement queue using linked list. Derive a class 'queue' from class 'list' that we created before.
+Write the class definition inside a header 'queue.h' and define the member functions inside a source file 'queue.cpp'.
+Go through the slides to know what member functions your class should have.

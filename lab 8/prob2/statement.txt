@@ -1,0 +1,13 @@
+Implement a 3-array Min-Heap (as described in the previos problem).
+And use it as priority queue (where the minimum element has highest priority).
+
+Copy the implementations of following functions from the previous problem.
+int Parent(int)
+int Child(int,int)
+void MinHeapify(int)
+
+Now implement the following member functions of class 'heap'.
+int HeapMinimum(void)
+int HeapExtractMin(void)
+void HeapDecreaseKey(int,int)
+void MinHeapInsert(int)

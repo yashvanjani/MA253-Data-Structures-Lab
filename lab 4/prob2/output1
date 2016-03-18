@@ -1,0 +1,38 @@
+Demonstration of QUEUE using ARRAY
+Enter one the follwing commands
+ i - to enqueue an integer
+ d - to dequeue
+ p - to print the queue
+ q - to quit
+
+Enter command
+Enter value
+6 Enqueued
+
+Enter command
+Enter value
+3 Enqueued
+
+Enter command
+Enter value
+8 Enqueued
+
+Enter command
+Error: Overflow
+
+Enter command
+6 3 8 
+
+Enter command
+6 Dequeued
+
+Enter command
+3 Dequeued
+
+Enter command
+8 Dequeued
+
+Enter command
+Error: Underflow
+
+Enter command

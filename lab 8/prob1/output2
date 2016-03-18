@@ -1,0 +1,25 @@
+How many integers do you want to enter ?
+Enter 18 integers
+Heap now contains 18 integers in random order
+Calling BuildMinHeap()
+Checking Min-Heap property
+Calling Heapsort
+Sorted output (in descending order)
+A[0]=100
+A[1]=90
+A[2]=75
+A[3]=74
+A[4]=66
+A[5]=63
+A[6]=61
+A[7]=60
+A[8]=54
+A[9]=51
+A[10]=46
+A[11]=35
+A[12]=33
+A[13]=30
+A[14]=29
+A[15]=25
+A[16]=18
+A[17]=15

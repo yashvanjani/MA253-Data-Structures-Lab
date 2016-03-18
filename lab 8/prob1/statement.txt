@@ -1,0 +1,24 @@
+Implement a 3-array Min-Heap.
+Each node (except for the last few) in this heap has 3 children.
+Also, being a Min-Heap, it satisfies the following "Min Heap Property" -
+ key of parent node is less than or equal to the keys of the child nodes.
+
+Heap elements are stored in array.
+Each element is identified by its array index. 
+Implement the following two functions. (these are NOT member funtions)
+int Parent(int)
+int Child(int,int)
+
+Parent(i) should return the index of the parent of thr i-th element.
+Child(i,j) assumes that j is 1,2 or 3.
+Child(i,1),Child(i,2) and Child(i,3) should return the indices of
+ first, second and third child of the i-th element.
+
+A class 'heap' is defined in 'heap.h'. Class 'heap' has a member 'A'.
+'A' is an integer array which stores the heap elements.
+Implement the following member functions.
+void MinHeapify(int);
+void BuildMinHeap(void);
+void Heapsort(void);
+
+Heapsort() should sort the element in DESCENDING order.

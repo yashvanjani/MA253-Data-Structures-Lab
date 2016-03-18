@@ -1,0 +1,33 @@
+Two trees with random data are created
+Enter key (between 10-70) to search. Enter 0 to exist
+key: 30	Tree1 (30,3.68)	Tree2 (30,4.17)
+key: 31	Tree1 Not Found	Tree2 Not Found
+key: 32	Tree1 (32,4.67)	Tree2 (32,7.03)
+key: 33	Tree1 Not Found	Tree2 Not Found
+key: 34	Tree1 (34,6.19)	Tree2 (34,7.62)
+key: 35	Tree1 (35,6.51)	Tree2 Not Found
+key: 36	Tree1 (36,5.86)	Tree2 (36,1.85)
+key: 37	Tree1 (37,4.92)	Tree2 (37,9.6)
+key: 38	Tree1 (38,2.76)	Tree2 Not Found
+key: 39	Tree1 (39,7.56)	Tree2 (39,1.85)
+key: 40	Tree1 Not Found	Tree2 Not Found
+key: 41	Tree1 (41,0.6)	Tree2 (41,9.65)
+key: 42	Tree1 (42,0.12)	Tree2 (42,4.23)
+key: 43	Tree1 Not Found	Tree2 (43,0.18)
+key: 44	Tree1 (44,0.87)	Tree2 (44,6.96)
+key: 45	Tree1 Not Found	Tree2 Not Found
+key: 46	Tree1 (46,2.26)	Tree2 (46,4.82)
+key: 47	Tree1 (47,0.94)	Tree2 Not Found
+key: 48	Tree1 (48,3.99)	Tree2 (48,6.51)
+key: 49	Tree1 (49,4.03)	Tree2 Not Found
+key: 50	Tree1 Not Found	Tree2 (50,4.82)
+key: 51	Tree1 (51,1.78)	Tree2 Not Found
+key: 52	Tree1 Not Found	Tree2 (52,3.69)
+key: 53	Tree1 (53,0.97)	Tree2 (53,5.77)
+key: 54	Tree1 Not Found	Tree2 (54,0.81)
+key: 55	Tree1 (55,7.95)	Tree2 (55,2.99)
+key: 56	Tree1 Not Found	Tree2 Not Found
+key: 57	Tree1 (57,8.65)	Tree2 (57,7.65)
+key: 58	Tree1 (58,2.8)	Tree2 Not Found
+key: 59	Tree1 (59,4.34)	Tree2 (59,3.84)
+key: 60	Tree1 (60,8.08)	Tree2 (60,5.97)

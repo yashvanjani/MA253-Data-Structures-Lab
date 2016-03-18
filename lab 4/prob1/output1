@@ -1,0 +1,38 @@
+Demonstration of STACK using ARRAY
+Enter one the follwing commands
+ i - to push an integer
+ d - to pop
+ p - to print the stack
+ q - to quit
+
+Enter command
+Enter value
+6 Pushed
+
+Enter command
+Enter value
+3 Pushed
+
+Enter command
+Enter value
+8 Pushed
+
+Enter command
+Error: Overflow
+
+Enter command
+6 3 8 
+
+Enter command
+8 Popped
+
+Enter command
+3 Popped
+
+Enter command
+6 Popped
+
+Enter command
+Error: Underflow
+
+Enter command

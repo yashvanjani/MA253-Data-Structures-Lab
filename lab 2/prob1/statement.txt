@@ -1,0 +1,2 @@
+Your program should ask for two intgers, swap them and print them. Write a function 'swap()' such that the function call 'swap(x,y)' swaps the values of x and y. Here x and y are int type variables. (Do not pass pointers, implement this using 'reference variables').
+

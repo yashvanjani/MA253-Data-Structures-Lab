@@ -1,0 +1,52 @@
+Demonstration of QUEUE using LINKED LIST
+Enter one the follwing commands
+ i - to enqueue an integer
+ d - to dequeue
+ p - to print the queue
+ q - to quit
+
+Enter command
+Enter value
+1 Enqueued
+
+Enter command
+Enter value
+3 Enqueued
+
+Enter command
+Enter value
+5 Enqueued
+
+Enter command
+Enter value
+7 Enqueued
+
+Enter command
+Enter value
+9 Enqueued
+
+Enter command
+->1->3->5->7->9
+
+Enter command
+1 Dequeued
+
+Enter command
+3 Dequeued
+
+Enter command
+5 Dequeued
+
+Enter command
+->7->9
+
+Enter command
+7 Dequeued
+
+Enter command
+9 Dequeued
+
+Enter command
+Error: Underflow
+
+Enter command

@@ -1,0 +1,3 @@
+Implement queue using array. Create a class 'queue'.
+The class definition is already given inside 'queue.h'.
+Define the member functions (except show()) inside a source file 'queue.cpp'.

@@ -1,0 +1,8 @@
+Implement the function void insert_after(node *t,int v)
+
+It should create a new node with 'v' as data and insert that node after the node pointed to by the pointer 't'
+
+
+Implement the function void insert_sorted(int v)
+
+If the data in the list are alreday soerted in ascending order from left to right, then this function should create a new node with data 'v' and insert it in a position such that the new list is still sorted.

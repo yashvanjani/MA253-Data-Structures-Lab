@@ -1,0 +1,12 @@
+Your program should ask for an integer n. Then take roll and id of n students (roll is an integer and id is a string). It shouls sort the records based on 'id' and print them in sorted order.
+
+Modify the sortrecord.cpp file and compile is as follows,
+
+g++ --pedantic-error -o sort sortrecord.cpp
+
+Then run it using the given input file 'input1' as follows,
+
+./sort < input1
+
+Your output should be identical to the given output file 'output1'
+
