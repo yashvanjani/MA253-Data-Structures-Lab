@@ -1,0 +1,8 @@
+Implement deletion (and also insertion) on Reb-Black tree.
+A class 'rbtree' is defined in 'rbtree.h'.
+The names of the member functions are in ono-to-one correspondance with 'Cormen'
+and they are supposed to do the same job as described in the textbook.
+
+Notice that, like Cormen, we are using a sentinel node named 'nil' in stead of NULL pointer.
+However, unlike Cormen, in our case 'nil' is the pointer to the sentinel node rather than the node itself.
+'nil' is initialized, using dynamic allocation, inside the constructor rbtree::rbtree (in rbtree.cpp).

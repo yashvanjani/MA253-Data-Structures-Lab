@@ -1,0 +1,76 @@
+Enter the number on integers to insert
+Enter 71 integers
+Enter 10 keys to delete
+Deleting 287
+Deleting 263
+Deleting 296
+Deleting 268
+Deleting 262
+Deleting 317
+Deleting 270
+Deleting 343
+Deleting 322
+Deleting 322
+The Red-Black Tree has the following structure
+301:B,	Left 280:R,	Right 332:R,	Parent nil
+280:R,	Left 269:B,	Right 285:B,	Parent 301:B
+269:B,	Left 259:R,	Right 272:B,	Parent 280:R
+259:R,	Left 254:B,	Right 264:B,	Parent 269:B
+254:B,	Left 250:B,	Right 257:B,	Parent 259:R
+250:B,	Left nil,	Right 251:R,	Parent 254:B
+251:R,	Left nil,	Right nil,	Parent 250:B
+257:B,	Left nil,	Right nil,	Parent 254:B
+264:B,	Left 260:B,	Right 267:B,	Parent 259:R
+260:B,	Left nil,	Right nil,	Parent 264:B
+267:B,	Left 265:R,	Right nil,	Parent 264:B
+265:R,	Left nil,	Right nil,	Parent 267:B
+272:B,	Left 271:B,	Right 275:R,	Parent 269:B
+271:B,	Left nil,	Right nil,	Parent 272:B
+275:R,	Left 274:B,	Right 277:B,	Parent 272:B
+274:B,	Left nil,	Right nil,	Parent 275:R
+277:B,	Left nil,	Right 278:R,	Parent 275:R
+278:R,	Left nil,	Right nil,	Parent 277:B
+285:B,	Left 282:B,	Right 293:B,	Parent 280:R
+282:B,	Left 281:B,	Right 283:B,	Parent 285:B
+281:B,	Left nil,	Right nil,	Parent 282:B
+283:B,	Left nil,	Right 284:R,	Parent 282:B
+284:R,	Left nil,	Right nil,	Parent 283:B
+293:B,	Left 289:R,	Right 298:R,	Parent 285:B
+289:R,	Left 286:B,	Right 292:B,	Parent 293:B
+286:B,	Left nil,	Right nil,	Parent 289:R
+292:B,	Left nil,	Right nil,	Parent 289:R
+298:R,	Left 295:B,	Right 300:B,	Parent 293:B
+295:B,	Left nil,	Right nil,	Parent 298:R
+300:B,	Left nil,	Right nil,	Parent 298:R
+332:R,	Left 316:B,	Right 342:B,	Parent 301:B
+316:B,	Left 309:R,	Right 324:B,	Parent 332:R
+309:R,	Left 303:B,	Right 311:B,	Parent 316:B
+303:B,	Left 302:B,	Right 307:R,	Parent 309:R
+302:B,	Left nil,	Right 302:R,	Parent 303:B
+302:R,	Left nil,	Right nil,	Parent 302:B
+307:R,	Left 305:B,	Right 308:B,	Parent 303:B
+305:B,	Left nil,	Right 306:R,	Parent 307:R
+306:R,	Left nil,	Right nil,	Parent 305:B
+308:B,	Left nil,	Right nil,	Parent 307:R
+311:B,	Left 310:B,	Right 315:B,	Parent 309:R
+310:B,	Left nil,	Right nil,	Parent 311:B
+315:B,	Left nil,	Right nil,	Parent 311:B
+324:B,	Left 319:R,	Right 327:B,	Parent 316:B
+319:R,	Left 318:B,	Right 321:B,	Parent 324:B
+318:B,	Left nil,	Right nil,	Parent 319:R
+321:B,	Left nil,	Right nil,	Parent 319:R
+327:B,	Left 326:R,	Right 328:R,	Parent 324:B
+326:R,	Left nil,	Right nil,	Parent 327:B
+328:R,	Left nil,	Right nil,	Parent 327:B
+342:B,	Left 334:B,	Right 347:B,	Parent 332:R
+334:B,	Left 333:B,	Right 339:R,	Parent 342:B
+333:B,	Left nil,	Right nil,	Parent 334:B
+339:R,	Left 337:B,	Right 340:B,	Parent 334:B
+337:B,	Left 335:R,	Right nil,	Parent 339:R
+335:R,	Left nil,	Right nil,	Parent 337:B
+340:B,	Left nil,	Right nil,	Parent 339:R
+347:B,	Left 345:R,	Right 349:B,	Parent 342:B
+345:R,	Left 344:B,	Right 346:B,	Parent 347:B
+344:B,	Left nil,	Right nil,	Parent 345:R
+346:B,	Left nil,	Right nil,	Parent 345:R
+349:B,	Left nil,	Right nil,	Parent 347:B

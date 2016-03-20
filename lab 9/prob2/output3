@@ -1,0 +1,54 @@
+Enter the number on integers to insert
+Enter 50 integers
+Enter 10 keys to delete
+Deleting 180
+Deleting 117
+Deleting 134
+Deleting 128
+Deleting 118
+Deleting 140
+Deleting 177
+Deleting 169
+Deleting 100
+Deleting 135
+The Red-Black Tree has the following structure
+166:B,	Left 137:B,	Right 178:B,	Parent nil
+137:B,	Left 119:R,	Right 152:R,	Parent 166:B
+119:R,	Left 109:B,	Right 127:B,	Parent 137:B
+109:B,	Left 105:R,	Right 116:B,	Parent 119:R
+105:R,	Left 101:B,	Right 107:B,	Parent 109:B
+101:B,	Left nil,	Right 102:R,	Parent 105:R
+102:R,	Left nil,	Right nil,	Parent 101:B
+107:B,	Left nil,	Right nil,	Parent 105:R
+116:B,	Left nil,	Right nil,	Parent 109:B
+127:B,	Left 121:R,	Right 136:B,	Parent 119:R
+121:R,	Left 120:B,	Right 126:B,	Parent 127:B
+120:B,	Left nil,	Right nil,	Parent 121:R
+126:B,	Left nil,	Right nil,	Parent 121:R
+136:B,	Left 130:R,	Right nil,	Parent 127:B
+130:R,	Left nil,	Right nil,	Parent 136:B
+152:R,	Left 141:B,	Right 162:B,	Parent 137:B
+141:B,	Left 139:B,	Right 147:R,	Parent 152:R
+139:B,	Left nil,	Right nil,	Parent 141:B
+147:R,	Left 144:B,	Right 151:B,	Parent 141:B
+144:B,	Left nil,	Right nil,	Parent 147:R
+151:B,	Left nil,	Right nil,	Parent 147:R
+162:B,	Left 155:R,	Right 163:B,	Parent 152:R
+155:R,	Left 153:B,	Right 159:B,	Parent 162:B
+153:B,	Left nil,	Right nil,	Parent 155:R
+159:B,	Left 158:R,	Right nil,	Parent 155:R
+158:R,	Left nil,	Right nil,	Parent 159:B
+163:B,	Left nil,	Right 164:R,	Parent 162:B
+164:R,	Left nil,	Right nil,	Parent 163:B
+178:B,	Left 170:B,	Right 181:B,	Parent 166:B
+170:B,	Left 167:B,	Right 176:B,	Parent 178:B
+167:B,	Left nil,	Right nil,	Parent 170:B
+176:B,	Left 175:R,	Right nil,	Parent 170:B
+175:R,	Left nil,	Right nil,	Parent 176:B
+181:B,	Left 179:B,	Right 189:R,	Parent 178:B
+179:B,	Left nil,	Right nil,	Parent 181:B
+189:R,	Left 182:B,	Right 194:B,	Parent 181:B
+182:B,	Left nil,	Right 187:R,	Parent 189:R
+187:R,	Left nil,	Right nil,	Parent 182:B
+194:B,	Left nil,	Right 195:R,	Parent 189:R
+195:R,	Left nil,	Right nil,	Parent 194:B

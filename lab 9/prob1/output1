@@ -1,0 +1,12 @@
+Enter the number on integers to insert
+Enter 9 integers
+The Red-Black Tree has the following structure
+7:B,	Left 2:R,	Right 11:R,	Parent nil
+2:R,	Left 1:B,	Right 5:B,	Parent 7:B
+1:B,	Left nil,	Right nil,	Parent 2:R
+5:B,	Left 4:R,	Right nil,	Parent 2:R
+4:R,	Left nil,	Right nil,	Parent 5:B
+11:R,	Left 8:B,	Right 14:B,	Parent 7:B
+8:B,	Left nil,	Right nil,	Parent 11:R
+14:B,	Left nil,	Right 15:R,	Parent 11:R
+15:R,	Left nil,	Right nil,	Parent 14:B
