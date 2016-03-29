@@ -1,0 +1,66 @@
+How many keys do you want to enter ?
+n = 30
+Creating a hash table (open addressing) of size 35
+Inserting 30 keys into the hash table
+Inserted key 244 at location 34
+Inserted key 22 at location 22
+Inserted key 190 at location 15
+Inserted key 85 at location 33
+Inserted key 445 at location 25
+Inserted key 202 at location 27
+Inserted key 253 at location 8
+Inserted key 385 at location 0
+Inserted key 115 at location 10
+Inserted key 373 at location 23
+Inserted key 139 at location 3
+Inserted key 304 at location 24
+Inserted key 49 at location 14
+Inserted key 283 at location 4
+Inserted key 70 at location 6
+Inserted key 31 at location 31
+Inserted key 58 at location 13
+Inserted key 451 at location 16
+Inserted key 118 at location 30
+Inserted key 286 at location 21
+Inserted key 268 at location 19
+Inserted key 67 at location 32
+Inserted key 328 at location 1
+Inserted key 217 at location 7
+Inserted key 418 at location 9
+Inserted key 160 at location 20
+Inserted key 346 at location 17
+Inserted key 382 at location 26
+Inserted key 298 at location 18
+Inserted key 379 at location 29
+Deleting 15 keys
+Deleted key 268 from location 19
+Deleted key 304 from location 24
+Deleted key 328 from location 1
+Deleted key 58 from location 13
+Deleted key 382 from location 26
+Deleted key 244 from location 34
+Deleted key 190 from location 15
+Deleted key 418 from location 9
+Deleted key 118 from location 30
+Deleted key 22 from location 22
+Deleted key 115 from location 10
+Deleted key 445 from location 25
+Deleted key 31 from location 31
+Deleted key 385 from location 0
+Deleted key 373 from location 23
+Searching keys
+Searching for key 160 : found at location 20
+Searching for key 70 : found at location 6
+Searching for key 346 : found at location 17
+Searching for key 217 : found at location 7
+Searching for key 283 : found at location 4
+Searching for key 286 : found at location 21
+Searching for key 202 : found at location 27
+Searching for key 379 : found at location 29
+Searching for key 67 : found at location 32
+Searching for key 85 : found at location 33
+Searching for key 253 : found at location 8
+Searching for key 49 : found at location 14
+Searching for key 298 : found at location 18
+Searching for key 139 : found at location 3
+Searching for key 451 : found at location 16

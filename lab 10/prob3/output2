@@ -1,0 +1,86 @@
+How many keys do you want to enter ?
+n = 40
+Creating a hash table (open addressing) of size 45
+Inserting 40 keys into the hash table
+Inserted key 95 at location 5
+Inserted key 339 at location 24
+Inserted key 403 at location 43
+Inserted key 315 at location 0
+Inserted key 171 at location 36
+Inserted key 399 at location 39
+Inserted key 227 at location 2
+Inserted key 203 at location 23
+Inserted key 63 at location 18
+Inserted key 195 at location 15
+Inserted key 311 at location 41
+Inserted key 11 at location 11
+Inserted key 487 at location 37
+Inserted key 159 at location 7
+Inserted key 283 at location 13
+Inserted key 187 at location 19
+Inserted key 411 at location 6
+Inserted key 323 at location 8
+Inserted key 439 at location 34
+Inserted key 495 at location 12
+Inserted key 151 at location 16
+Inserted key 375 at location 42
+Inserted key 263 at location 38
+Inserted key 119 at location 29
+Inserted key 31 at location 31
+Inserted key 347 at location 32
+Inserted key 111 at location 21
+Inserted key 23 at location 26
+Inserted key 259 at location 14
+Inserted key 139 at location 4
+Inserted key 415 at location 10
+Inserted key 83 at location 33
+Inserted key 367 at location 3
+Inserted key 71 at location 9
+Inserted key 383 at location 35
+Inserted key 359 at location 44
+Inserted key 55 at location 22
+Inserted key 211 at location 40
+Inserted key 395 at location 30
+Inserted key 331 at location 1
+Deleting 20 keys
+Deleted key 55 from location 22
+Deleted key 83 from location 33
+Deleted key 347 from location 32
+Deleted key 151 from location 16
+Deleted key 71 from location 9
+Deleted key 187 from location 19
+Deleted key 283 from location 13
+Deleted key 211 from location 40
+Deleted key 495 from location 12
+Deleted key 23 from location 26
+Deleted key 263 from location 38
+Deleted key 375 from location 42
+Deleted key 227 from location 2
+Deleted key 399 from location 39
+Deleted key 415 from location 10
+Deleted key 259 from location 14
+Deleted key 171 from location 36
+Deleted key 311 from location 41
+Deleted key 439 from location 34
+Deleted key 339 from location 24
+Searching keys
+Searching for key 323 : found at location 8
+Searching for key 11 : found at location 11
+Searching for key 139 : found at location 4
+Searching for key 331 : found at location 1
+Searching for key 203 : found at location 23
+Searching for key 383 : found at location 35
+Searching for key 395 : found at location 30
+Searching for key 31 : found at location 31
+Searching for key 359 : found at location 44
+Searching for key 63 : found at location 18
+Searching for key 403 : found at location 43
+Searching for key 95 : found at location 5
+Searching for key 159 : found at location 7
+Searching for key 315 : found at location 0
+Searching for key 111 : found at location 21
+Searching for key 119 : found at location 29
+Searching for key 195 : found at location 15
+Searching for key 367 : found at location 3
+Searching for key 411 : found at location 6
+Searching for key 487 : found at location 37

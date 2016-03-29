@@ -1,0 +1,19 @@
+Implement functions f1() and f2() which will be used to generate perfect hashing.
+
+For calls of the form f1(p,m,n,A) or f2(p,m,n,A)
+p - is a prime number.
+m - is an integer which is supposed to be the size of a hash table.
+A - integer array of size n containing n keys. each key is +ve and less than p.
+
+f1() and f2() returns a structure of type 'hparam' which has two integer fields- a and b.
+
+a,b will be used to represent a hash function h_a,b which maps key k to slot no. ((a*k+b) mod p) mod m.
+h comes from a family of universal hash functions H_p,m.
+All the keys are +ve and less than p. h hashes the keys into m slots.
+
+Your goal is to implement f1() and f2() such that
+
+f1() returns a and b where no more than 5 keys are hashed into the same slot.
+f2() returns a and b where there is no collision. (Here m is n^2);
+
+See Cormen, Perfect Hashing. 

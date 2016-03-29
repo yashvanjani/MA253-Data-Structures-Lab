@@ -1,0 +1,106 @@
+How many keys do you want to enter ?
+n = 50
+Creating a hash table (open addressing) of size 55
+Inserting 50 keys into the hash table
+Inserted key 492 at location 52
+Inserted key 252 at location 32
+Inserted key 262 at location 42
+Inserted key 447 at location 7
+Inserted key 227 at location 19
+Inserted key 392 at location 22
+Inserted key 412 at location 27
+Inserted key 297 at location 50
+Inserted key 247 at location 4
+Inserted key 317 at location 35
+Inserted key 62 at location 16
+Inserted key 192 at location 3
+Inserted key 17 at location 17
+Inserted key 107 at location 51
+Inserted key 42 at location 30
+Inserted key 167 at location 2
+Inserted key 387 at location 12
+Inserted key 377 at location 47
+Inserted key 82 at location 1
+Inserted key 277 at location 10
+Inserted key 217 at location 54
+Inserted key 172 at location 18
+Inserted key 347 at location 41
+Inserted key 342 at location 31
+Inserted key 47 at location 40
+Inserted key 142 at location 37
+Inserted key 117 at location -1
+Inserted key 472 at location 45
+Inserted key 352 at location 25
+Inserted key 397 at location -1
+Inserted key 497 at location 14
+Inserted key 222 at location 9
+Inserted key 382 at location -1
+Inserted key 22 at location 13
+Inserted key 422 at location -1
+Inserted key 182 at location 38
+Inserted key 177 at location 28
+Inserted key 102 at location 29
+Inserted key 242 at location 49
+Inserted key 432 at location 48
+Inserted key 292 at location 8
+Inserted key 147 at location -1
+Inserted key 87 at location 11
+Inserted key 137 at location -1
+Inserted key 462 at location 53
+Inserted key 237 at location 39
+Inserted key 162 at location 0
+Inserted key 232 at location 46
+Inserted key 417 at location -1
+Inserted key 257 at location 24
+Deleting 25 keys
+Deleted key 242 from location 49
+Deleted key 222 from location 9
+Deleted key 352 from location 25
+Deleted key 177 from location 28
+Deleted key 182 from location 38
+Deleted key 472 from location 45
+Deleted key 227 from location 19
+Deleted key 377 from location 47
+Deleted key 172 from location 18
+Deleted key 412 from location 27
+Deleted key 147 from location -1
+Deleted key 392 from location 22
+Deleted key 117 from location -1
+Deleted key 422 from location -1
+Deleted key 262 from location 42
+Deleted key 102 from location 29
+Deleted key 247 from location 4
+Deleted key 342 from location 31
+Deleted key 62 from location 16
+Deleted key 492 from location 52
+Deleted key 87 from location 11
+Deleted key 237 from location 39
+Deleted key 17 from location 17
+Deleted key 432 from location 48
+Deleted key 167 from location 2
+Searching keys
+Searching for key 382 : Not Found
+Searching for key 397 : Not Found
+Searching for key 217 : found at location 54
+Searching for key 277 : found at location 10
+Searching for key 497 : found at location 14
+Searching for key 257 : found at location 24
+Searching for key 252 : found at location 32
+Searching for key 232 : found at location 46
+Searching for key 162 : found at location 0
+Searching for key 22 : found at location 13
+Searching for key 317 : found at location 35
+Searching for key 192 : found at location 3
+Searching for key 47 : found at location 40
+Searching for key 297 : found at location 50
+Searching for key 42 : found at location 30
+Searching for key 292 : found at location 8
+Searching for key 387 : found at location 12
+Searching for key 447 : found at location 7
+Searching for key 137 : Not Found
+Searching for key 462 : found at location 53
+Searching for key 82 : found at location 1
+Searching for key 107 : found at location 51
+Searching for key 142 : found at location 37
+Searching for key 347 : found at location 41
+Searching for key 417 : Not Found

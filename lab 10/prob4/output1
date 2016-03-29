@@ -1,0 +1,6 @@
+Enter total no. of keys.   n = Enter 100 +ve integer keys
+Enter a prime upper bound on keys.  p = Enter size of T.   m = Initialising T
+
+Parameters: n=100, m=50, p=997
+Constructing tables S0, S1, ...
+Perfect hashing achived

@@ -1,0 +1,5 @@
+Implement Search, Insertion and Deletion for hash table with open addressing.
+Implement hash function which uses quadratic probing with
+ auxiliary hash function h'(k)=k,
+ c1 = 1 and c2 = 3.
+(See Cormen 3rd Ed. Exercise 11.4-1)

@@ -1,0 +1,3 @@
+Implement Search, Insertion and Deletion for hash table with open addressing.
+Implement hash function which uses double hashing  with
+ auxiliary hash functions h1(k)=k and h2(k)=1+(k mod (m-1))
