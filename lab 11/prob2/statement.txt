@@ -1,0 +1,21 @@
+Cormen 3rd Ed. , page 405
+Problem: 15-2
+Longest palindrome subsequence
+A palindrome is a nonempty string over some alphabet that reads the same for-
+ward and backward. Examples of palindromes are all strings of length 1, 'civic','racecar', and 'aibohphobia' (fear of palindromes).
+Give an efficient algorithm to find the longest palindrome that is a subsequence
+of a given input string. For example, given the input 'character', your algorithm should return 'carac'.
+
+The input sequence is given as an array A[0],...,A[n]
+You need to compute the length 'm' of the longest palindromic subsequence.
+You also need to compute 'm' integers B[0],...,B[m] which are in increasing order and are between 0 to n-1 s.t. A[B[0]],...,A[B[m-1]] is the longest palindromic subsequence of A[0],...,A[n-1].
+
+Time complexity of your algorithm should be O(n^2)
+
+Implement function 'pal()' which has prototype 'void pal(int,char*,int&,int*&)'.
+
+When we make a call pal(n,A,m,B)
+  A is an character array of size n which contains the original sequence.
+  Notice that 'm' and 'B' are passed as reference variables.
+  pal() should set the value of 'm'.
+  pal() should  allocate space for B[0],...,B[m] and set their values.

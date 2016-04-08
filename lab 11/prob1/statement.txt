@@ -1,0 +1,16 @@
+Cormen 3rd Ed. , page 397
+15.4-5
+Give an O(n^2)-time algorithm to find the longest monotonically increasing
+subsequence of a sequence of n numbers.
+
+The input sequence is given as an array A[0],...,A[n]
+You need to compute the length 'm' of the largest monotonically increasing subsequence.
+You also need to compute 'm' integers B[0],...,B[m] which are in increasing order and are between 0 to n-1 s.t. A[B[0]],...,A[B[m-1]] is the largest monotocally increasing subsequence of A[0],...,A[n-1].
+
+Implement function 'lis()' which has prototype 'void lis(int,int*,int&,int*&)'.
+
+When we make a call lis(n,A,m,B)
+  A is an integer array of size n which contains the original sequence.
+  Notice that 'm' and 'B' are passed as reference variables.
+  lis() should set the value of 'm'.
+  lis() should  allocate space for B[0],...,B[m] and set their values.

@@ -1,0 +1,34 @@
+Cormen 3rd Ed. , page 405
+Prob 15-3
+Bitonic euclidean traveling-salesman problem
+
+" In the euclidean traveling-salesman problem, we are given a set of n points in the plane, and we wish to find the shortest closed tour that connects all n points.
+Figure 15.11(a) shows the solution to a 7-point problem. The general problem is NP-hard, and its solution is therefore believed to require more than polynomial
+time (see Chapter 34). J. L. Bentley has suggested that we simplify the problem by restricting our attention to bitonic tours, that is, tours that start at the leftmost
+point, go strictly rightward to the rightmost point, and then go strictly leftward back to the starting point.
+Figure 15.11(b) shows the shortest bitonic tour of the same 7 points.
+In this case, a polynomial-time algorithm is possible.
+Describe an O(n^2)-time algorithm for determining an optimal bitonic tour. You may assume that no two points have the same x-coordinate and that all operations
+on real numbers take unit time. (Hint: Scan left to right, maintaining optimal possibilities for the two parts of the tour.) "
+
+Implement a function (inside bitonic.cpp) to compute optimal bitonic tour.
+
+Each point is represented as 'structure' named 'point'  which is defined as
+struct point {int x,y;};
+x and y correspond to the x and y co-ordinate of the points.
+
+You have to implement a function 'bitonic()' which has the following prototype.
+void bitonic(int,point[],bool[]);
+
+When we make a call bitonic(n,p,T) the arguments n,p,T have the followinh meaning
+n - number of points
+p - array of n points (remember each point is of type 'point').
+    p is sorted in increasing order of the x co-ordinate of the points.
+T - bool type array of size n.
+    bitonic() is supposed to set the values of T[0],...,T[n-1] appropriately to true/false.
+    T[i] should be set to true, if the point p[i] is part of left to right sweep.
+    T[i] should be set to false, if the point p[i] is part of right to left sweep.
+    T[0] and T[n-1] should be set to true.
+
+Also, for your convenience a function 'double d(point,point);' is already defined (in other.cpp).
+d(p,q) returns the euclidean distance between points p and q (as double precision floating point value).
