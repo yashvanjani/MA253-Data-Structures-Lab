@@ -23,6 +23,8 @@ int main(int argc, char *argv[])
 			cout<<endl;
 		}
 	}
+	// for(i=0;i<m;i++)
+	// 	cout<<A[B[i]];
 
 	for(i=0;i<m-1;i++)
 	{
@@ -34,5 +36,7 @@ int main(int argc, char *argv[])
 		cout<<"Original sequence: ";for(i=0;i<n;i++) cout<<A[i]; cout<<endl;
 		cout<<"Largest Palindromic Subseq: ";for(i=0;i<m;i++) cout<<A[B[i]]; cout<<endl;
 	}
+	// for(i=0;i<m;i++)
+	// 	cout<<A[B[i]];
 	cout<<"Length of Largest Palindromic Subsequence is "<<m<<endl;
 }
