@@ -1,0 +1,4 @@
+Enter no. of vertices
+Enter no. of edges
+Enter 10 pairs of integers u v to add edge (u,v)
+Diameter of graph: 5

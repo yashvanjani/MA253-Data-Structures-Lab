@@ -1,0 +1,21 @@
+Given an directed acyclic graph, topologically sort the vertices.
+
+Implement a function toposort(). A typical call looks like dia(n,m,E,A) where,
+
+n is an integer, which is the no. of veritices.
+  Vertices are labeled as 0,...,n-1 
+
+m is an integer, which is no. of edges.
+
+E is a 2-d int array with m rows and 2 columns.
+  The array elements are integers betweem 0 to n-1 which denote vertices.
+  If E[i][0] is u and E[i][1] is v, it means that there is an (directed) edge
+  from vertex u to vertex v.
+
+A is an integer array of size n.
+
+Return type of toposort() is void. It should set the values of the elements
+ of the array A such that A[0],...,A[n-1] contains all the vertices 0,...,n-1
+ in topologically soretd order.
+
+(It is guaranteed that the graph is acyclic.)

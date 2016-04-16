@@ -1,0 +1,17 @@
+Let d(u,v) denote the distance between vertices u and v in an undirected graph.
+Diameter of a graph is defined as max(d(u,v)) over all pair of vertices u,v.
+Given an undirected graph compute its diameter.
+
+Implement a function dia(). A typical call looks like dia(n,m,E) where,
+
+n is an integer, which is the no. of veritices.
+  Vertices are labeled as 0,...,n-1 
+
+m is an integer, which is no. of edges.
+
+E is a 2-d int array with m rows and 2 columns.
+  The array elements are integers betweem 0 to n-1 which denote vertices.
+  If E[i][0] is u and E[i][1] is v, it means that there is an (undirected) edge
+  between vertices u and v.
+
+dia(n,m,E) should return an integer which is supposed to be the diameter of the graph.
